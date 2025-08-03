@@ -69,4 +69,45 @@ SafeSpend-AI simplifies digital financial literacy and empowers users with safe,
 3. RAG system retrieves relevant information from verified financial sources (e.g., government portals, bank sites)  
 4. AI agent delivers a personalized, easy-to-understand response in the user's preferred language
 
+---
+
+## 📸 Screenshots
+
+### 🔧 Setting Up
+![Setting Up](./Setting_up.jpg)
+
+### 🤖 Agent Instructions
+![Agent Instructions](./Agent_Instructions.jpg)
+
+### 💬 Quick Start Questions
+![Quick Start Questions](./Quick_Start_Questions.jpg)
+
+### 🛠️ Tools Used & Testing
+![Tools Used & Testing](./Tools_Used_&_Testing.jpg)
+
+### 🚀 Deployment & Preview
+![Deployment & Preview](./Deplyment_&_Preview.jpg)
+
+### 📡 API References After Deployment
+![API References](./API_References_After_Deployment.jpg)
+
+### 📚 Resources List
+![Resources List](./Resources_List.jpg)
+
+---
+
+## 🔮 Future Scope
+
+- **Multilingual Expansion for More Regional Languages**  
+- **Voice-Enabled Financial Guidance**  
+- **Integration with Real-Time Transaction Assistants**  
+- **Adaptive Learning Based on User Behavior**  
+- **Partnership with Government & Bank APIs for Live Data**  
+- **Offline Mode for Low-Connectivity Regions**
+
+---
+
+🔗 [Connect with me on LinkedIn](www.linkedin.com/in/berosin)
+
+
 
