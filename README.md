@@ -20,8 +20,7 @@ A multilingual AI assistant powered by Retrieval-Augmented Generation (RAG) that
 
 ## 📦 Technologies Used
 
-- IBM Cloud Lite services  
-- Natural Language Processing (NLP)  
+- IBM Cloud Lite services   
 - Retrieval-Augmented Generation (RAG)  
 - IBM Granite model  
 
